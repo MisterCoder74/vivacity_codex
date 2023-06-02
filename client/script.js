@@ -107,7 +107,7 @@ const handleSubmit = async (e) => {
     } else {
         const err = await response.text()
 
-        messageDiv.innerHTML = "Something went wrong"
+        messageDiv.innerHTML = "Qualcosa è andato storto, prova ad aspettare qualche secondo o assicurati di non aver esaurito i tokens"
         alert(err)
     }
 }
