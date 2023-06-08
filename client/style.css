@@ -9,6 +9,7 @@
 
 body {
   background: #343541;
+  color: black;
 }
 
 #app {
@@ -58,6 +59,7 @@ body {
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
+  color: black;
 
   display: flex;
   flex-direction: row;
