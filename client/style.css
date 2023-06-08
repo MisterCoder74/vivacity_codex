@@ -16,7 +16,7 @@ body {
   width: 100vw;
   height: 100vh;
   background: #ccc;
-  color: black;
+  color: #000;
 
   display: flex;
   flex-direction: column;
@@ -53,13 +53,14 @@ body {
 
 .ai {
   background: #f00;
+  color: #000;
 }
 
 .chat {
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
-  color: black;
+  color: #000;
 
   display: flex;
   flex-direction: row;
