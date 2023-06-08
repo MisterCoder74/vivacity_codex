@@ -15,7 +15,7 @@ body {
 #app {
   width: 100vw;
   height: 100vh;
-  background: #ccc;
+  background: transparent;
   color: #000;
 
   display: flex;
